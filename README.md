@@ -14,7 +14,3 @@ This repository contains my practice codes and notes for Infosys SP (Specialist 
 - `Infosys-SP/` - All practice problems with Java solutions
 - Example: `FindLeader.java` - Leaders in an Array pattern
 
-### 🚀 How to Run
-```bash
-javac FileName.java
-java FileName
